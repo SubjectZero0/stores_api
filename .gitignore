@@ -287,3 +287,4 @@ pip-selfcheck.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/flask,python,virtualenv,visualstudiocode
+.vscode/settings.json
